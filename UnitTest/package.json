@@ -14,7 +14,7 @@
     "mongoose": "^5.9.18",
     "morgan": "~1.9.1",
     "node-mocks-http": "^1.8.1",
-    "pug": "2.0.0-beta11"
+    "pug": "3.0.1"
   },
   "devDependencies": {
     "jest": "^26.0.1",
